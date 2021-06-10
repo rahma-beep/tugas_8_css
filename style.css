@@ -1,0 +1,27 @@
+.satu {
+  text-align: right;
+  font-weight: bold;
+  color: blue;
+}
+.dua {
+  text-align: left;
+  font-weight: bold;
+  color: green;
+}
+.tiga {
+  text-align: right;
+  font-weight: bold;
+  color: red;
+}
+div{
+  background-color: white;
+  background-image: url(avocado.jpg);
+  background-repeat: repeat-y;
+  border: solid;
+  width: 50%;
+  height: 320px;
+  overflow: scroll;
+}
+body {
+  background-image: url(Stupa_Borobudur.jpg);
+}
